@@ -8,9 +8,9 @@ tipo = type (Salario)
 print (Salario)
 print (tipo)
 
-print ("Código") , Codigo, "Nome", nome , "o salario atual é de", (Salario)
+print ("Código") , Codigo, "Nome", "o salario atual é de", (Salario)
 
-print("Codigo:" "+ str (codigo)+ " "Nome: "+ nome+ "O salario atual é de "+ str(Salario)) 
+print("Codigo:" "+ str (codigo)+ " "Nome: " + "O salario atual é de "+ str(Salario)) 
 
 Codigo = 105
 nome = 'Grazielle Azevedo'

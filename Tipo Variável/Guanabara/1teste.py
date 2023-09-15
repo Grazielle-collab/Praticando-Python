@@ -48,4 +48,8 @@ print('A soma entre {} e {} vale {}'.format(n1,n2,s))
 # Digite outro: 9
 # A soma entre 5 e 9 vale 14 
 
+# OBS: AULA DE CALCULO!!!
+nome = input('Qual é seu nome?')
+print('Prazer em te conhecer {:=^20}!'.format(nome))
+
 
